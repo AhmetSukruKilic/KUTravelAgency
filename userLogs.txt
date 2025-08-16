@@ -1,0 +1,111 @@
+Customer: ege
+  Current Itinerary:
+    Flight: (GlobalJet|FL6489|Economy), from Brussels to Dubai
+    Taxi: (Dubai|Orange Taxi), in Dubai
+    Hotel: (Radisson Blue|Dubai|Standard), in Dubai
+    Taxi: (Dubai|Orange Taxi), in Dubai
+    Flight: (GlobalJet|FL9154|First Class), from Dubai to Brussels
+    Old Hotel: (Four Seasons|Dubai|Standard), in Dubai - Cancelled
+    Old Flight: (Turkish Airlines|FL1174|First Class), from Brussels to Dubai - Cancelled
+    Old Taxi: (Dubai|Yellow Taxi), in Dubai - Cancelled
+    Old Taxi: (Dubai|Yellow Taxi), in Dubai - Cancelled
+    Old Flight: (AeroFly|FL2961|Economy), from Dubai to Brussels - Cancelled
+  Package Details:
+    Name: Custom
+    Description: Custom
+    Duration: 2 days
+    Reservation Dates:
+      Start: (2025-01-05)
+      End: (2025-01-07)
+    Base Cost: 6196.43
+    Discount: 0.00
+    Total Cost: 6196.43
+    Status: Active
+------------------------------------------------------------------------------------
+Customer: ege
+  Current Itinerary:
+    Flight: (KUFly|FL3203|Economy), from Lisbon to Dublin
+    Taxi: (Dublin|Orange Taxi), in Dublin
+    Hotel: (InterContinental|Dublin|Suite), in Dublin
+    Taxi: (Dublin|Orange Taxi), in Dublin
+    Flight: (JavaAir|FL3272|First Class), from Dublin to Lisbon
+  Package Details:
+    Name: Custom
+    Description: Custom
+    Duration: 2 days
+    Reservation Dates:
+      Start: (2025-01-01)
+      End: (2025-01-03)
+    Base Cost: 3546.10
+    Discount: 0.00
+    Total Cost: 3546.10
+    Status: Active
+------------------------------------------------------------------------------------
+Customer: leyla
+  Current Itinerary:
+    Flight: (Pegasus Airlines|FL3408|First Class), from Berlin to Lisbon
+    Taxi: (Lisbon|Orange Taxi), in Lisbon
+    Hotel: (Radisson Blue|Lisbon|Suite), in Lisbon
+    Taxi: (Lisbon|Orange Taxi), in Lisbon
+    Flight: (FlyDubai|FL7629|Economy), from Lisbon to Berlin
+  Package Details:
+    Name: Custom
+    Description: Custom
+    Duration: 1 days
+    Reservation Dates:
+      Start: (2025-01-01)
+      End: (2025-01-02)
+    Base Cost: 2056.98
+    Discount: 0.00
+    Total Cost: 2056.98
+    Status: Active
+------------------------------------------------------------------------------------
+Customer: makbule
+  Current Itinerary:
+    Flight: (Turkish Airlines|FL8604|Economy), from Istanbul to Paris
+    Taxi: (Paris|Orange Taxi), in Paris
+    Hotel: (Marriott|Paris|Deluxe), in Paris
+    Taxi: (Paris|Yellow Taxi), in Paris
+    Flight: (KUFly|FL7654|First Class), from Paris to Istanbul
+  Package Details:
+    Name: Donna's mom
+    Description: Experience Suits Donna's holiday
+    Duration: 3 days
+    Reservation Dates:
+      Start: (2025-01-04)
+      End: (2025-01-07)
+    Base Cost: 3637.38
+    Discount: 45.00
+    Total Cost: 2000.56
+    Status: Active
+------------------------------------------------------------------------------------
+Customer: efe
+  Current Itinerary:
+    Flight: (Pegasus Airlines|FL4163|Economy), from Brussels to Berlin
+  Package Details:
+    Name: SingleEntity
+    Description: SingleEntity
+    Duration: 1 days
+    Reservation Dates:
+      Start: (2025-01-01)
+      End: (2025-01-02)
+    Base Cost: 370.80
+    Discount: 0.00
+    Total Cost: 370.80
+    Status: Active
+------------------------------------------------------------------------------------
+Customer: yagiz
+  Current Itinerary:
+    Hotel: (Marriott|Brussels|Suite), in Brussels
+  Package Details:
+    Name: SingleEntity
+    Description: SingleEntity
+    Duration: 1 days
+    Reservation Dates:
+      Start: (2025-06-01)
+      End: (2025-06-02)
+    Base Cost: 167.48
+    Discount: 0.00
+    Total Cost: 167.48
+    Status: Active
+------------------------------------------------------------------------------------

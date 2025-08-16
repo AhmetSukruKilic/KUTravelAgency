@@ -1,0 +1,2 @@
+Flight:(Pegasus Airlines|FL4163|Economy)+Taxi:(Berlin|Yellow Taxi)+Hotel:(ibis Inn|Berlin|Suite)+Taxi:(Berlin|Yellow Taxi)+Flight:(FlyAsia|FL1079|Economy),3.0,aaa,aaaaaaaa,0.0
+Flight:(JavaAir|FL7428|First Class)+Taxi:(Dublin|Yellow Taxi)+Hotel:(Holiday Inn|Dublin|Standard)+Taxi:(Dublin|Yellow Taxi)+Flight:(FlyAsia|FL6304|First Class),1.0,ss,sss,0.0

@@ -1,0 +1,5 @@
+Flight:(Turkish Airlines|FL8604|Economy)+Taxi:(Paris|Orange Taxi)+Hotel:(Marriott|Paris|Deluxe)+Taxi:(Paris|Yellow Taxi)+Flight:(KUFly|FL7654|First Class),3,Donna's mom,Experience Suits Donna's holiday,45.0
+Flight:(Turkish Airlines|FL8604|Economy)+Taxi:(Paris|Black Taxi)+Hotel:(Marriott|Paris|Deluxe)+Taxi:(Paris|Yellow Taxi)+Flight:(KUFly|FL7654|First Class),3,Donna ,Experience Suits Harvey's holiday,45.0
+Flight:(FlyAsia|FL1079|Economy)+Taxi:(Brussels|Yellow Taxi)+Hotel:(Four Seasons|Brussels|Deluxe)+Taxi:(Brussels|Yellow Taxi)+Flight:(Pegasus Airlines|FL4163|Economy),3,aaa,aaaaaaaaaa,3.0
+Flight:(FlyAsia|FL1870|Economy)+Taxi:(Oslo|Orange Taxi)+Hotel:(Marriott|Oslo|Standard)+Taxi:(Oslo|Orange Taxi)+Flight:(Pegasus Airlines|FL9115|Economy),3,aklima gelmiyor,aklime gelince yazicam,9.0
+Flight:(JavaAir|FL7428|First Class)+Taxi:(Dublin|Black Taxi)+Hotel:(Hilton|Dublin|Deluxe)+Taxi:(Dublin|Black Taxi)+Flight:(FlyAsia|FL6304|First Class),1,aaa,aaaaa,2.0
